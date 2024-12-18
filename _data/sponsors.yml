@@ -1,14 +1,20 @@
-- name: SolidWorks
-  logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/solidworks.svg
-  level: lazer
-  website: https://www.solidworks.com/
-
 - name: Cito Medical
   logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/cito.svg
   level: lazer
   website: https://citomedical.com
 
-- name: SBG Systems
-  logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/sbg_systems.svg
+- name: PNI Sensor
+  logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/pni.webp
   level: lazer
-  website: https://www.sbg-systems.com/
+  website: https://www.pnisensor.com/
+
+- name: SolidWorks
+  logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/solidworks.svg
+  level: lazer
+  website: https://www.solidworks.com/
+
+- name: WaterLinked
+  logo: https://raw.githubusercontent.com/CabrilloRoboticsClub/cabrillorobotics.github.io/what-a-theme-test/assets/images/sponsors/waterlinked.png
+  level: lazer
+  website: https://waterlinked.com/
+
